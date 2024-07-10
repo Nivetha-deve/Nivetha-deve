@@ -16,7 +16,9 @@
 - [Social Media Application](https://github.com/Nivetha-deve/frontend-social-media)
 
 - ## 🌐 Live Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/teams/nivetha-deve/overview)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://ornate-cactus-c8215b.netlify.app/login),
+(https://beamish-kangaroo-824e38.netlify.app/login)
+
 
 - ## 📊 GitHub Stats
 ![Nivetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivetha-deve&show_icons=true&theme=radical)
