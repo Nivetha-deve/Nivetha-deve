@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nivetha Shree 👋
 
-<!--
-**Nivetha-deve/Nivetha-deve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- 🔭 Currently working on a **Music Streaming App**
+- Looking to collaborate on **Open Source Projects**
+- 📫 Reach me at: **nivethashree9666@gmail.com**
 
-Here are some ideas to get you started:
+- ## 🛠️ Technologies & Tools
+- **Languages**: JavaScript,
+- **Frontend**: React, Redux, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 📌 Pinned Repositories
+- [Music Streaming App](https://github.com/Nivetha-deve/musicapp-frontend-capstone)
+- [Social Media Application](https://github.com/Nivetha-deve/frontend-social-media)
+
+- ## 📊 GitHub Stats
+![Nivetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivetha-deve&show_icons=true&theme=radical)
+
+
+- ## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nivetha-shree-499b49291/)
