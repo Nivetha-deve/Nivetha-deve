@@ -15,9 +15,9 @@
 - [Music Streaming App](https://github.com/Nivetha-deve/musicapp-frontend-capstone)
 - [Social Media Application](https://github.com/Nivetha-deve/frontend-social-media)
 
-- ## 🌐 Live Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://ornate-cactus-c8215b.netlify.app/login),
-(https://beamish-kangaroo-824e38.netlify.app/login)
+## 🌐 Live Demo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://beamish-kangaroo-824e38.netlify.app/login)(https://ornate-cactus-c8215b.netlify.app/login)
+
 
 
 - ## 📊 GitHub Stats
