@@ -17,7 +17,10 @@
 
 - ## 📊 GitHub Stats
 ![Nivetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivetha-deve&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivetha-deve&layout=compact&theme=radical)
 
+## 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 - ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nivetha-shree-499b49291/)
