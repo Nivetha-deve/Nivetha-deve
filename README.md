@@ -3,7 +3,7 @@
 ## 💼 About Me
 - 🔭 Currently working on a **Music Streaming App**
 - Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **nivethashree9666@gmail.com**
+- 📫 Reach me at: **nivethashree015@gmail.com**
 
 - ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript,
